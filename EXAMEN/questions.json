@@ -1296,7 +1296,7 @@
             "W3C- \"User Agent Accesibility Guidelines (UAAG).",
             "W3C- \"User Agent Accesibility Guidelines (UAAG)."
         ],
-        "correct": 0
+        "correct": 2
     },
     {
         "question": "En el tema de evaluación de usabilidad. Informa el tiempo de renderización de la imagen, el bloque de texto o el video más grandes que se pueden ver en el viewport, en relación con el momento en que el usuario navegó a la página por primera vez.",
@@ -1316,7 +1316,7 @@
             "First Contentful Paint (FCP)",
             "Time to First Byte (TTFB)"
         ],
-        "correct": 1
+        "correct": 2
     },
     {
         "question": "Tomando como referencia el ejemplo: Tres usuarios diferentes realizan la misma tarea. Dos lograron completar en un tiempo considerable (2,3 segundos, respectivamente), mientras que el tercer usuario se demoró 7 segundos y no la terminó, esto es un ejemplo de métrica de:",
@@ -1326,7 +1326,7 @@
             "Eficacia",
             "Eficiencia y Eficacia"
         ],
-        "correct": 3
+        "correct": 0
     },
     {
         "question": "El método de evaluación por Inspección de estándares se realiza por medio de un experto en un estándar que puede ser de facto o de iure de la interfaz. El experto realiza una inspección minuciosa a la interfaz para comprobar que cumple en todo momento y globalmente todos los puntos definidos en el estándar. ¿En qué fases se aplica este método?",
@@ -1336,7 +1336,7 @@
             "En fases avanzadas del desarrollo, pruebas, e implantación.",
             "En la fase de análisis de requisitos"
         ],
-        "correct": 1
+        "correct": 2
     },
     {
         "question": "Seleccione los principios importantes de la experiencia de usuario (UX) en aplicaciones de realidad aumentada (AR)",
@@ -1596,7 +1596,7 @@
             "Sustituyen completamente la documentación técnica",
             "Facilitan la comprensión de las interacciones entre usuarios y sistema."
         ],
-        "correct": 3
+        "correct": 2
     },
     {
         "question": "¿Cuál es una característica principal de una Aplicación Web Progresiva (PWA)?",
@@ -2196,7 +2196,7 @@
             "BoxDecoration.gradient",
             "Decoration"
         ],
-        "correct": 2
+        "correct": 3
     },
     {
         "question": "Dado el código que define estos tres puntos para un triángulo: new Point(posX + ancho, posY), new Point(posX + ancho, posY + alto), new Point(posX, posY + alto / 2) ¿hacia qué lado apunta el triángulo?",
@@ -2216,7 +2216,7 @@
             "angulo = velocidadAngular * velocidadAngular;",
             "velocidadAngular = angulo *2;"
         ],
-        "correct": 0
+        "correct": 1
     },
     {
         "question": "¿Cuál es la ventaja de usar un \"double buffering\" en animaciones implementadas en C#?",
@@ -2316,7 +2316,7 @@
             "400",
             "200"
         ],
-        "correct": 3
+        "correct": 1
     },
     {
         "question": "¿Qué tipo de codificación se usa en la autenticación básica para las API REST?",
@@ -2696,6 +2696,6 @@
             "Cuando se necesita usar una clase existente cuya interfaz no coincide con la esperada.",
             "Al definir algoritmos recursivos complejos."
         ],
-        "correct": 2
+        "correct": 1
     }
 ]
